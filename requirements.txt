@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+python-dotenv
+requests
+loguru
+streamlit
+plotly

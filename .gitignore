@@ -1,0 +1,26 @@
+# Post Compile csv folders
+
+# data/
+
+*.csv
+*.zip
+
+*.ipynb_checkpoints
+*.DS_Store
+
+__pycache__/
+
+# Jupyter Book
+book-mscf
+
+.idea/
+*.idea
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
