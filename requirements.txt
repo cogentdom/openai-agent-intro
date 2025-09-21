@@ -8,3 +8,4 @@ requests
 loguru
 streamlit
 plotly
+openai-agents
