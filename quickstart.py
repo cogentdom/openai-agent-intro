@@ -1,4 +1,6 @@
 from agents import Agent
+from dotenv import load_dotenv
+load_dotenv()
 
 history_tutor_agent = Agent(
     name="History Tutor",
